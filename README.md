@@ -139,8 +139,3 @@ Built with ❤️ by Velprakash
 ## 📜 License
 
 This project is licensed under the MIT License.
-```
-
----
-
-Let me know if you want to include badges, add environment variables, or customize any part further.
